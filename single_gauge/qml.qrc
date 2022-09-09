@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>assets/Amber_alert_left_base.png</file>
+        <file>assets/img_Alerts_large_placeholder.png</file>
+        <file>assets/Mid_Fill.png</file>
+        <file>assets/Tick_marks.png</file>
+        <file>assets/icn_tt_coolant_temperature_normal.png</file>
+        <file>assets/half_blue.png</file>
+        <file>assets/img_cluster_11inches_cars_crossovers_bg_2000.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+</RCC>
